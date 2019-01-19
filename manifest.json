@@ -1,7 +1,7 @@
 {
-	"name": "Getting Started Extension",
+	"name": "NBA Streams Scraper",
 	"version": "1.0",
-	"description": "Build an extension!",
+	"description": "Scraper for NBA Streams",
 	"manifest_version": 2,
 	"permissions": ["activeTab", "declarativeContent", "storage"],
 	"background": {
